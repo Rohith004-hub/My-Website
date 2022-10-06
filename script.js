@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function submit() {
     $("#submit-form").validate({
         rules: {
             name: {
